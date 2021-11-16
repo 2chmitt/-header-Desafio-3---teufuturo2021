@@ -1,0 +1,18 @@
+main{background-color: #FFFFFF;}
+.texto{position: relative; width: 50%;margin:auto;padding: 0 0 5em 0; font-family: 'Montserrat', sans-serif;}
+.texto div p:last-child{font-weight: bolder;}
+.texto div h2:last-child{padding: 1em 0 1em;}
+h2{text-align: center;padding: 2em 0 1em;color: rgb(4, 1, 7);font-weight: bold;font-size: 40px;}
+.sobre {margin-left: auto;margin-right: auto;width: 940px;padding: 0 0 0.5em;}
+.sobre p{text-align:justify;color: rgb(4, 1, 7);font-size: 25px;line-height: 40px; font-family: 'Montserrat', sans-serif;}
+#center{text-align: center;font-weight: bold;}
+.img{float: left;position: relative;width: 11%;padding:5em 8em 2em 8em;}
+.img p{margin: 0 0 1em 0;font-size: 15px;}
+.img1{width: 100%;}
+.programa{color: rgb(4, 1, 7);position: relative; width: 16%;margin:6em 5em 0 3em;padding: 1em;float:right;    text-align:justify;font-size: 14px;line-height: 20px;border: 2px solid grey;border-radius: 5px; font-family: 'Montserrat', sans-serif;}
+.programa h2{padding:0 0 1em 0;font-size: 14px;font-weight: bold;}
+.programa .bold{font-weight: bold;}
+.programa p:first-child{color: rgb(80, 80, 80);margin: 0 0 1em 0;}
+.mais{background-color: blueviolet;}
+.video{text-align: center;padding: 3em 0 0.5em 0;}
+.video iframe{border:3px solid black}

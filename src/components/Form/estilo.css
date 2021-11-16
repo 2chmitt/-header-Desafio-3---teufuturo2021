@@ -1,0 +1,10 @@
+.projeto{width: 940px;padding: 0.5em 1em 1em 1em;border: 2px solid white;border-radius: 5px; line-height: 50px;color: white;font-size: 30px;margin-left: auto;margin-right: auto;transition: 400ms;}
+.projeto:hover{font-weight: bold;background: rgb(79, 7 ,93);width: 50%;line-height: 60px;}
+.formulario{padding: 10em 0;background: linear-gradient(white ,rgb(79 7 93));}
+.mensagem{ margin: 2em 300px;}
+form label{display: block;padding: 1em 0;color: white;font-size: 20px;font-weight: bold;}
+form input, textarea{text-align: center;display: block;border-radius: 5px; margin-left: auto;margin-right: auto;font-size: 15px;font-family: 'Montserrat', sans-serif;}
+form input[type="email"]{height: 30px;width: 250px;}
+.enviar{width: 10%;padding: 0.5em;background: white;color: rgb(75, 5, 121);font-size: 15px;font-weight: bold;font-family: 'Montserrat', sans-serif;cursor: pointer;border-radius: 5px;}
+.enviar:hover{transform: scale(1.1);background: yellow;}
+.contact{background:whitesmoke;text-align: center; font-family: 'Montserrat', sans-serif;}
